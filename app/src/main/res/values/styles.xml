@@ -7,6 +7,11 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
     <style name="ButtonStyle">
         <item name="android:background">@drawable/button_background</item>
         <item name="android:textColor">#ffffff</item>

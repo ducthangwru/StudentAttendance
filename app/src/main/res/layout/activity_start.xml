@@ -17,5 +17,5 @@
         android:layout_centerInParent="true"
         android:text="@string/start"
         android:textColor="#FFFFFF"
-        android:background="@color/button_enabled_background" />
+        android:background="@drawable/button_background" />
 </RelativeLayout>
