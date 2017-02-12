@@ -1,4 +1,3 @@
-<!-- Copyright (c) Microsoft. All rights reserved. -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
@@ -178,8 +177,9 @@
     </LinearLayout>
 
     <TextView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Microsoft will receive the images you upload and may use them to improve Face API and related services. By submitting an image, you confirm that you have consent from everyone in it."/>
+        android:gravity="center"
+        android:text="@string/dhtl"/>
 </LinearLayout>
